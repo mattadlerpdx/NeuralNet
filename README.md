@@ -1,5 +1,5 @@
 # NeuralNet
-This program is an implementation of a neural network with a one hidden layer (option to change number of hidden nodes).
+This program is an implementation of a neural network with a single hidden layer (option to change number of hidden nodes).
 Input is the MNIST digit recognizer dataset (handwritten digits 0-9).
 
 Flow of program:
